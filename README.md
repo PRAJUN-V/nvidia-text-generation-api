@@ -13,7 +13,7 @@ This project is a FastAPI-based application that integrates with the NVIDIA text
 
 ## Setup
 
-### 1. Clone the Repository
+### 1. Clone the Repository and Install the Dependencies
 ```bash
 git clone https://github.com/PRAJUN-V/nvidia-text-generation-api.git
 cd nvidia-text-generation-api
