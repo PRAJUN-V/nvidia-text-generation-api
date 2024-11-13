@@ -24,7 +24,6 @@ API_KEY=your_nvidia_api_key
 BASE_URL=https://integrate.api.nvidia.com/v1
 
 Install Dependencies
-```markdown
 pip install fastapi pydantic openai python-dotenv
 ```
 
